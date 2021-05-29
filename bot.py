@@ -14,7 +14,7 @@ import time
 
 # ******* This while is for casino bot of discord which will automatically work after the set time interval (here i have set 30 as on my server its 30 seconds) *******
 
-interval = 10
+interval = 35
 word = ".work"
 
 while(True):
